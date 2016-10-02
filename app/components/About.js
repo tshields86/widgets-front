@@ -8,7 +8,7 @@ class About extends Component {
     return (
       <div>
         <h2>Technologies</h2>
-        <h3>Built with React, Node, Express, Bootstrap, Webpack, Bootstrap, Sass</h3>
+        <h3>Built with React, Node, Express, Webpack, Bootstrap, and Sass</h3>
         <br/><br/>
         <Link to="/">
           <Button bsStyle="info" bsSize="large">Home</Button>

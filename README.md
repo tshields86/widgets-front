@@ -1,3 +1,3 @@
-# Widgets
+# WidgetX
 
-### Multiple widgets built with React.js
+### Useful widgets built with React, Node, Express, Webpack, Bootstrap, and Sass

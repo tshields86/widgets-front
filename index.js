@@ -1,5 +1,5 @@
-let express = require('express');
-let app = express();
+var express = require('express');
+var app = express();
 
 /* expose dist */
 app.use('/', express.static('dist'));

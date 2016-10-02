@@ -8,8 +8,8 @@ class Welcome extends Component {
     return (
       <div>
         <Jumbotron>
-          <h1>Travis' Widgets</h1>
-          <p>A widget a day keeps the doctor away.</p>
+          <h1>WidgetX</h1>
+          <p>A widget for everything...</p>
           <Link to="/About">
             <Button bsStyle="info" bsSize="large">Learn more</Button>
           </Link>

@@ -1,7 +1,7 @@
 {
-  "name": "react-express-bootstrap-boiler",
+  "name": "WidgetX",
   "version": "0.1.0",
-  "description": "React Webpack Boilerplate",
+  "description": "WidgetX",
   "main": "index.js",
   "scripts": {
     "production": "webpack -p",
@@ -13,7 +13,7 @@
   "dependencies": {
     "axios": "^0.9.1",
     "express": "^4.13.4",
-    "lodash": "^4.8.2",
+    "lodash": "^4.16.2",
     "react": "^15.3.0",
     "react-dom": "^15.3.0",
     "react-router": "^2.0.1"
